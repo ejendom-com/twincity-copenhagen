@@ -11,3 +11,9 @@ This repo contains quick-start guides for hackathon teams building with Danish b
 - **[Data Guide](DATA_GUIDE.md)** — How to fetch building and address data from Denmark's public registries (Datafordeler, BBR, DAWA). Includes endpoint reference, BBR field mappings, gotchas, code examples, and a bonus section on Google Maps Photorealistic 3D.
 
 - **[ejendom.com API](EJENDOM_API.md)** — Ready-to-use REST API serving real portfolio and building data from the ejendom.com platform. Includes authentication, endpoint docs, response examples, and quick-start code snippets.
+
+## Challenge Brief
+
+The original challenge presentation is available here:
+
+- **[AEC 2026 Bloxhub TwinCity Challenge (PDF)](AEC_2026_Bloxhub_TwinCity_Challenge.pdf)** — The full slide deck covering the vision, goals, data tracks, stretch ideas, and inspiration for the TwinCity Copenhagen challenge.
