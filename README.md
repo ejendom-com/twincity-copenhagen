@@ -1,3 +1,5 @@
+![AEC Hackathon 2026 - Twin City](aec-banner.jpg)
+
 # TwinCity Copenhagen
 
 A game-inspired digital property twin powered by open data — presented by [ejendom.com](https://ejendom.com) at **AEC Hackathon 2026**.
